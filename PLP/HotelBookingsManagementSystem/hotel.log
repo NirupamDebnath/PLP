@@ -1,0 +1,6 @@
+2017-10-15 15:22:48,595 ERROR [main] - root.getConnection 77 : Database Connection Failed !!
+2017-10-15 16:02:14,727 ERROR [main] - root.admin 237 : ORA-00903: invalid table name
+2017-10-15 16:03:20,553 ERROR [main] - root.main 50 : For input string: ""
+2017-10-15 16:04:48,318 ERROR [main] - root.main 74 : ORA-00925: missing INTO keyword
+2017-10-15 16:15:42,700  INFO [main] - root.register 59 : Insertion Successful for User Id : 1006
+2017-10-15 20:04:08,844  INFO [main] - root.register 59 : Insertion Successful for User Id : 1007
